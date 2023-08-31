@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shreya Sree
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Java Script
 - 📫 How to reach me -shreyamodala@gmail.com
 
 <!---
